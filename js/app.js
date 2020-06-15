@@ -69,7 +69,7 @@ $(document).ready(function() {
   // Functions
   // Reset Timer
   function resetTimer() {
-    count = 15;
+    count = 150;
     counter = setInterval(timer, 1000);
   }
 
